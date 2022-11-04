@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.pdb

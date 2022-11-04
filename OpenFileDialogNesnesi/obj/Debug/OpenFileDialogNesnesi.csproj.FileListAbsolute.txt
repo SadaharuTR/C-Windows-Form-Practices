@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\bin\Debug\OpenFileDialogNesnesi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\bin\Debug\OpenFileDialogNesnesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\bin\Debug\OpenFileDialogNesnesi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\OpenFileDialogNesnesi\obj\Debug\OpenFileDialogNesnesi.pdb

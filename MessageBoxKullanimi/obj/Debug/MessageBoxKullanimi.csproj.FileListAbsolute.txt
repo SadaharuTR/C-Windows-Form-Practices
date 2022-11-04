@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\bin\Debug\MessageBoxKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\bin\Debug\MessageBoxKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\bin\Debug\MessageBoxKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.pdb

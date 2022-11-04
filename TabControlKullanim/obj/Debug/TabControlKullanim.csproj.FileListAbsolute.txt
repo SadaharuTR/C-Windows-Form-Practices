@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\bin\Debug\TabControlKullanim.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\bin\Debug\TabControlKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\bin\Debug\TabControlKullanim.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TabControlKullanim\obj\Debug\TabControlKullanim.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\bin\Debug\MaskedTextBoxNesnesi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\bin\Debug\MaskedTextBoxNesnesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\bin\Debug\MaskedTextBoxNesnesi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MaskedTextBoxNesnesi\obj\Debug\MaskedTextBoxNesnesi.pdb

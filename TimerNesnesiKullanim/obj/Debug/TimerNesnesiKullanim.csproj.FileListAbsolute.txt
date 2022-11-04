@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\bin\Debug\TimerNesnesiKullanim.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\bin\Debug\TimerNesnesiKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\bin\Debug\TimerNesnesiKullanim.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\TimerNesnesiKullanim\obj\Debug\TimerNesnesiKullanim.pdb

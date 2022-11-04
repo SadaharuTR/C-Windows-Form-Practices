@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\bin\Debug\PictureBoxNesnesi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\bin\Debug\PictureBoxNesnesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\bin\Debug\PictureBoxNesnesi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\PictureBoxNesnesi\obj\Debug\PictureBoxNesnesi.pdb

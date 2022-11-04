@@ -1,0 +1,14 @@
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\bin\Debug\DLLOlusturmaveKullanma.exe.config
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\bin\Debug\DLLOlusturmaveKullanma.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\bin\Debug\DLLOlusturmaveKullanma.pdb
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\bin\Debug\Matematik.dll
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\bin\Debug\Matematik.pdb
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.Form1.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.CopyComplete
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.pdb

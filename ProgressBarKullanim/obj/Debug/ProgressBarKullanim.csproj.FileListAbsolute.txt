@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\bin\Debug\ProgressBarKullanim.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\bin\Debug\ProgressBarKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\bin\Debug\ProgressBarKullanim.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ProgressBarKullanim\obj\Debug\ProgressBarKullanim.pdb

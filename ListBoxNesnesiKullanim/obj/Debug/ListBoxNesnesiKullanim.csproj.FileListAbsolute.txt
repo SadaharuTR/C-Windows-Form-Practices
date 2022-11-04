@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\bin\Debug\ListBoxNesnesiKullanim.exe.config
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\bin\Debug\ListBoxNesnesiKullanim.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\bin\Debug\ListBoxNesnesiKullanim.pdb
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.Form1.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\ListBoxNesnesiKullanim\obj\Debug\ListBoxNesnesiKullanim.pdb

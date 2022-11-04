@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\bin\Debug\WindowsFormsExamples.exe.config
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\bin\Debug\WindowsFormsExamples.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\bin\Debug\WindowsFormsExamples.pdb
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.Form1.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.exe
+C:\Users\Cagatay\Desktop\C# Dersleri\WindowsFormsExamples\obj\Debug\WindowsFormsExamples.pdb

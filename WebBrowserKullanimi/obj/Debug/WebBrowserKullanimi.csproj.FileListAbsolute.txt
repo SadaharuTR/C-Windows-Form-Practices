@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.pdb

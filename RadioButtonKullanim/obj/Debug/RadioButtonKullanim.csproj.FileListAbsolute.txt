@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\bin\Debug\RadioButtonKullanim.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\bin\Debug\RadioButtonKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\bin\Debug\RadioButtonKullanim.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RadioButtonKullanim\obj\Debug\RadioButtonKullanim.pdb

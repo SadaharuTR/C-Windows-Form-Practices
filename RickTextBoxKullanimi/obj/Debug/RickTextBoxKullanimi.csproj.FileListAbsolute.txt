@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\bin\Debug\RickTextBoxKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\bin\Debug\RickTextBoxKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\bin\Debug\RickTextBoxKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\RickTextBoxKullanimi\obj\Debug\RickTextBoxKullanimi.pdb

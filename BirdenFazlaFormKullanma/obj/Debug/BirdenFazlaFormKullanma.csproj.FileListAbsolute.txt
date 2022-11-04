@@ -1,0 +1,12 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.Anasayfa.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\bin\Debug\BirdenFazlaFormKullanma.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\bin\Debug\BirdenFazlaFormKullanma.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\bin\Debug\BirdenFazlaFormKullanma.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\BirdenFazlaFormKullanma\obj\Debug\BirdenFazlaFormKullanma.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\bin\Debug\CheckBoxNesnesiKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\bin\Debug\CheckBoxNesnesiKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\bin\Debug\CheckBoxNesnesiKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\CheckBoxNesnesiKullanimi\obj\Debug\CheckBoxNesnesiKullanimi.pdb

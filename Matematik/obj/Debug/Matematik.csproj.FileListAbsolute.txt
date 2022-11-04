@@ -1,0 +1,6 @@
+C:\Users\Cagatay\Desktop\C# Dersleri\Matematik\bin\Debug\Matematik.dll
+C:\Users\Cagatay\Desktop\C# Dersleri\Matematik\bin\Debug\Matematik.pdb
+C:\Users\Cagatay\Desktop\C# Dersleri\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Dersleri\Matematik\obj\Debug\Matematik.dll
+C:\Users\Cagatay\Desktop\C# Dersleri\Matematik\obj\Debug\Matematik.pdb

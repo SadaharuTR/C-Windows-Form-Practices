@@ -1,0 +1,12 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\bin\Debug\MenuStripKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\bin\Debug\MenuStripKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\bin\Debug\MenuStripKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.StockForm.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.pdb

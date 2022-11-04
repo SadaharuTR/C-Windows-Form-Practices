@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\bin\Debug\ComboBoxKullanimi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\bin\Debug\ComboBoxKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\bin\Debug\ComboBoxKullanimi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.pdb

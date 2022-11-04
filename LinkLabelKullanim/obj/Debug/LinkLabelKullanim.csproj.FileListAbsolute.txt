@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\bin\Debug\LinkLabelKullanim.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\bin\Debug\LinkLabelKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\bin\Debug\LinkLabelKullanim.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\LinkLabelKullanim\obj\Debug\LinkLabelKullanim.pdb
