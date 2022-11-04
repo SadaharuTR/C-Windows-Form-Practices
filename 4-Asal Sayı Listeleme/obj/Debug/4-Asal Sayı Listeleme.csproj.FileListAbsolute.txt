@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\bin\Debug\4-Asal Sayı Listeleme.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\bin\Debug\4-Asal Sayı Listeleme.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\bin\Debug\4-Asal Sayı Listeleme.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\4-Asal Sayı Listeleme.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\4-Asal Sayı Listeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\_4_Asal_Sayı_Listeleme.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\_4_Asal_Sayı_Listeleme.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\4-Asal Sayı Listeleme.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\4-Asal Sayı Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\4-Asal Sayı Listeleme.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\4-Asal Sayı Listeleme\obj\Debug\4-Asal Sayı Listeleme.pdb

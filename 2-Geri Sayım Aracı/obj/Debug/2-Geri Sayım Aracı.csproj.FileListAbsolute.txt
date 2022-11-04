@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\bin\Debug\2-Geri Sayım Aracı.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\bin\Debug\2-Geri Sayım Aracı.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\bin\Debug\2-Geri Sayım Aracı.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\2-Geri Sayım Aracı.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\2-Geri Sayım Aracı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\_2_Geri_Sayım_Aracı.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\_2_Geri_Sayım_Aracı.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\2-Geri Sayım Aracı.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\2-Geri Sayım Aracı.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\2-Geri Sayım Aracı.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\2-Geri Sayım Aracı\obj\Debug\2-Geri Sayım Aracı.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\bin\Debug\5-Standart Hesap Makinesi.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\bin\Debug\5-Standart Hesap Makinesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\bin\Debug\5-Standart Hesap Makinesi.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\5-Standart Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\5-Standart Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\_5_Standart_Hesap_Makinesi.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\_5_Standart_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\5-Standart Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\5-Standart Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\5-Standart Hesap Makinesi.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\5-Standart Hesap Makinesi\obj\Debug\5-Standart Hesap Makinesi.pdb

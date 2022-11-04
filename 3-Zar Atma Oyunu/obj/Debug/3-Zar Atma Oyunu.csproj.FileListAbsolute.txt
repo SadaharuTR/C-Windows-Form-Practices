@@ -1,0 +1,11 @@
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\bin\Debug\3-Zar Atma Oyunu.exe.config
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\bin\Debug\3-Zar Atma Oyunu.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\bin\Debug\3-Zar Atma Oyunu.pdb
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\3-Zar Atma Oyunu.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\3-Zar Atma Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\_3_Zar_Atma_Oyunu.Form1.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\_3_Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\3-Zar Atma Oyunu.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\3-Zar Atma Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\3-Zar Atma Oyunu.exe
+C:\Users\Cagatay\Desktop\C# Form Uygulamaları\3-Zar Atma Oyunu\obj\Debug\3-Zar Atma Oyunu.pdb
